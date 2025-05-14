@@ -12,11 +12,9 @@ A Streamlit application that uses OpenAI's ChatGPT to rank CVs based on their ma
 
 ## Requirements
 
-- Python 
+- Python 3.8+
 - OpenAI API Key
 
 ## Installation
 
-1. Create Virtual envirnoment, preferred but optional 
-2. Install the requirements from requirements.txt file with pip in virtual envirnoment
-3. Run the application with command **streamlit run app.py** 
+1. Clone this repository:

@@ -1,0 +1,15 @@
+# Core dependencies
+streamlit
+openai
+PyPDF2
+matplotlib
+pandas
+numpy
+
+# PDF processing
+pdfminer.six
+python-docx
+
+# Utilities
+tqdm
+python-dotenv
